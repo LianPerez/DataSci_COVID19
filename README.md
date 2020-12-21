@@ -8,4 +8,4 @@ Finally, after calculating `P(positive)` under both statistical approaches for o
 
 ## How to run this project:
 
-As with other `.ipynb` files, the notebook comprising this project can be downloaded and run in [Google Colab](https://colab.research.google.com/) or other platforms capable of supporting and opening Python notebooks.
+As with other `.ipynb` files, the notebook comprising this project can be downloaded and run in [Google Colab](https://colab.research.google.com/) or other platforms capable of supporting and opening Jupyter notebooks.
